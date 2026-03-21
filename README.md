@@ -22,8 +22,8 @@ A console-based ATM simulation built in C++ for a Data Structures and Algorithms
 
 | Name | 
 |------|
-| *(Rash Ian Sinag)* |
-| *(Hannah Maeryl Perraro)* | 
+| *Rash Ian Sinag* |
+| *Hannah Maeryl Perraro* | 
 
 **Course:** Data Structures and Algorithms  
 **School:** Technological University of the Philippines - Manila
